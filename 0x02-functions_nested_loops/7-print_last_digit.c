@@ -17,6 +17,6 @@ if (last < 0)
 last = last * -1;
 }
 _putchar(last + '0');
-return (value of the last digit);
+return (last);
 
 }
